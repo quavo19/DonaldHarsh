@@ -1,8 +1,9 @@
 * {
     box-sizing: border-box;
     padding: 0px;
-    margin: 0px;
+    margin: 20px auto ;
     text-align: center;
+    box-sizing: border-box;
 }
 
 body {
@@ -16,4 +17,15 @@ body {
 }
 .container {
     color: #fff;
+  
+}
+#form{
+    color: #fff;
+    height: 100px;
+}
+form {
+    background: radial-gradient(rgb(221, 157, 157),#a24848);
+    padding: 2.5rem 0.625rem;
+    border-radius: 0.25rem;
+    height: 100%;
 }
