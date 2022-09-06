@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+body {
+    padding: 50px;
+    width: 100%;
+    background-image: url(background.png);
+    position: relative;
+    font-family: roboto, sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    color: #fff;
+}
